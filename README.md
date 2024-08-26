@@ -44,6 +44,6 @@
 ##### • Should be able to update information about the ingredients and some of their advantages when consumed.
 
 ## ER Diagram
-
+![Screenshot 2024-08-26 231903](https://github.com/user-attachments/assets/400846a8-f86a-4157-8a60-99fd884591c0)
 
 
