@@ -11,19 +11,19 @@
 
 
 # REQUIREMENTS:
-#### Manager:
+### Manager:
 ##### • Should be able to update information about my restaurant.
 
 ##### • Should be able to view weekly sales for my outlet.
 
 ##### • Should be able to view the current inventory position of the restaurant.
 
-#### Customer:
+### Customer:
 ##### • Should be able to browse through the menu and look at the various food options available in the restaurant along with the price for each item.
 
 ##### • Should be able to select items from the menu and add them to my order.
 
-#### Chef:
+### Chef:
 
 ##### • Should be able to view the current queue to see the ready orders for pickup.
 
@@ -31,12 +31,12 @@
 
 ##### • Should be able to update the order status to ready once the order is prepared.
 
-#### Waiter: 
+### Waiter: 
 ##### • Should be able to view the current queue to see the ready orders for pickup.
 
 ##### • Should be able to mark the orders as picked up on the common queue.
 
-#### Supplier:
+### Supplier:
 ##### • Should be able to view the inventory items so as to supply the lacking ingredients to the chef.
 
 ##### • Should be able to update the food items as available when supplied.
